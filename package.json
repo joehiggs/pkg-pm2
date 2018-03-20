@@ -1,0 +1,38 @@
+{
+  "name": "pkg-pm2",
+  "version": "0.1.0",
+  "description": "Pkg you Node.js app with PM2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehiggs/pkg-pm2.git"
+  },
+  "keywords": [
+    "pkg",
+    "pm2",
+    "node.js",
+    "node",
+    "express.js",
+    "express",
+    "js",
+    "javascript",
+    "forever",
+    "foreverjs",
+    "pkg-pm2",
+    "pm2-pkg"
+  ],
+  "author": "Joe Higgs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joehiggs/pkg-pm2/issues"
+  },
+  "homepage": "https://github.com/joehiggs/pkg-pm2#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "pm2": "^2.10.1",
+    "shelljs": "^0.8.1"
+  }
+}
